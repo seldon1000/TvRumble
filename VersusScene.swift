@@ -3,7 +3,6 @@
 //  TVRumbleTest1
 //
 //  Created by Nicolas Mariniello && Fabio Friano on 03/04/2020.
-//  Copyright © 2020 Cinemofili. All rights reserved.
 //
 
 import SpriteKit
